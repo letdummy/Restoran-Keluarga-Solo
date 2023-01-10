@@ -69,3 +69,11 @@ Agus, Arwinda, Mira, Annida
 - https://www.svgviewer.dev/svg-to-react-jsx
 - https://restorankeluarga-solo.vercel.app/
 - https://restorankeluarga-solo.up.railway.app
+
+# Screenshots
+
+<a><img src="https://raw.githubusercontent.com/letdummy/Restoran-Keluarga-Solo/master/images/home.png" alt="image" width="500"></a>
+<a><img src="https://raw.githubusercontent.com/letdummy/Restoran-Keluarga-Solo/master/images/about.png" alt="image" width="500"></a>
+<br/>
+<a><img src="https://raw.githubusercontent.com/letdummy/Restoran-Keluarga-Solo/master/images/menu.png" alt="image" width="500"></a>
+<a><img src="https://raw.githubusercontent.com/letdummy/Restoran-Keluarga-Solo/master/images/footer.png" alt="image" width="500"></a>
